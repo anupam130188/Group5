@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is sample file
+=======
+Hi Team
+>>>>>>> e5a5ab6c4e694c5088c6c3f7f9ab3c4225de848e
